@@ -24,7 +24,7 @@ FollowerMode = True
 # --- # ---- Follower Mode Dictionary ---- # --- #
 # --- # ---------------------------------- # --- #
 
-# Lookup Twitter ID's here https://tweeterid.com/ by entering the accounts @Usernamehandle (without the @)
+# Lookup Twitter ID's here http://gettwitterid.com/ by entering the accounts @Usernamehandle (without the @)
 # It doesn't care what you name them. The names are only displayed to the console.
 
 idsdict = { 'CNN Breaking': 428333,
