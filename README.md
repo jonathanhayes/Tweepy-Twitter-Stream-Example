@@ -10,6 +10,7 @@ With FollowerMode set to True, this will stream tweets from a user-defined list 
 
 You will need a twitter API access key. It's not hard to get. 
 Sign up for one at https://developer.twitter.com/en/apply-for-access.html
+Once you have your API keys, scroll 1/3 of the way down the script and look for 'AUTHENTICATION' and add your API key there.
 
 ----------------------------------------------
 
