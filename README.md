@@ -6,6 +6,8 @@ This is my attempt at creating a well documented example of streaming Twitter us
 
 With FollowerMode set to True, this will stream tweets from a user-defined list of Twitter accounts. With FollowerMode set to False, you can stream from all accounts with user-defined keyword filters. This contains an optional JSON storage feature inside of it that is commented out.
 
+Curious on if it streams faster? It is possible using something called Firehose made by Twitter, but it is only meant for large enterprise use and must be specially applied for by contacting their sales team. No idea on how much it costs.
+
 # Requirement
 
 You will need a twitter API access key. It's not hard to get. 
