@@ -4,6 +4,8 @@ from tweepy import OAuthHandler
 from time import sleep
 import json
 
+# Important - Don't name file 'tweepy.py'
+
 # Used below to supress problems and continue instead of try/except/continue
 from contextlib import suppress
 
