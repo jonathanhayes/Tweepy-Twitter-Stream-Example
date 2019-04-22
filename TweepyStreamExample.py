@@ -102,7 +102,8 @@ class MyStreamListener(tweepy.StreamListener):
     
     # on_status is a built in tweepy method to fetch tweets.
     # on_data is another one and shows more detailed information for analytical reasons,
-    # but be aware that you will have to parse the json manually like data['text'], data['user']['location'], etc
+    # but be aware that you will have to parse the json manually like data['text'], data['user']['location'], etc.
+    # print out status or data(if using on_data) and run the script to fetch the full JSON to see everything that it can do.
     # You can find a good example of that here https://github.com/varadhbhatnagar/Emoyto
     def on_status(self, status):
         
