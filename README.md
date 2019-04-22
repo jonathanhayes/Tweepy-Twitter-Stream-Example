@@ -14,4 +14,6 @@ Once you have your API keys, scroll 1/3 of the way down the script and look for 
 
 ----------------------------------------------
 
+
+
 Tidbit - I most definitely enjoy sharing code with others and helping people for free without EVER asking anything in return, but if you found this example useful and would like to buy me a cup of coffee or something, feel free to send a dollar or two to paypal.me/jhayes88 if you'd like. Tips are always appreciated <3 
