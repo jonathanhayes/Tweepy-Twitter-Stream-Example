@@ -95,6 +95,7 @@ if FollowerMode == True:
     # gets all IDs from 'idsdict' and converts them to strings
     ids = [str(i) for i in list(idsdict.values())]
 
+# Main Stream Listener Class
 class MyStreamListener(tweepy.StreamListener):
     global ids
     global FollowerMode
