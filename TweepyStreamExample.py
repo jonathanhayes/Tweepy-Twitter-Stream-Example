@@ -25,6 +25,7 @@ FollowerMode = True
 # --- # ---------------------------------- # --- #
 
 # Lookup Twitter ID's here https://tweeterid.com/ by entering the accounts @Usernamehandle (without the @)
+# You can name them whatever you want. 
 
 idsdict = { 'CNN Breaking': 428333,
             'CNN': 759251,
