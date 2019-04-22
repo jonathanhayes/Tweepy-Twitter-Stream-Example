@@ -1,4 +1,4 @@
-# Tweepy-Twitter-Stream-Example
+# Tweepy Twitter Stream Example
 
 This is my attempt at creating a well documented example of streaming Twitter using the Python package called Tweepy. I have searched high and low and most examples are either outdated or are very small and don't showcase enough or explain anything.
 
