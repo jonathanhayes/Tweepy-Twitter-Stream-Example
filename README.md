@@ -4,7 +4,7 @@ This is my attempt at creating a well documented example of streaming Twitter us
 
 # What this does
 
-With FollowerMode set to True, this will stream tweets from a user-defined list of Twitter accounts. With FollowerMode set to False, you can stream from all accounts with user-defined keyword filters.
+With FollowerMode set to True, this will stream tweets from a user-defined list of Twitter accounts. With FollowerMode set to False, you can stream from all accounts with user-defined keyword filters. This contains an optional JSON storage feature inside of it that is commented out.
 
 # Requirement
 
