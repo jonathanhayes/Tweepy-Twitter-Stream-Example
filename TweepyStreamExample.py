@@ -134,7 +134,8 @@ class MyStreamListener(tweepy.StreamListener):
                 print('-' * 80)
                 
                 # Prints the name for this ID that's defined in 'idsdict'
-                print(list(idsdict.keys())[list(idsdict.values()).index(int(userid))])
+                with suppress(Exception):
+                    print(list(idsdict.keys())[list(idsdict.values()).index(int(userid))])
                 
                 print('User: ' + status.user.screen_name)
                 # Attempt to display location and/or country if it exists
